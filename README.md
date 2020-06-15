@@ -1,4 +1,4 @@
-<h4>Ensure Device’s audio output is <i>Enabled</i> !</h4>  Click down See the Effect 
+<h4>Ensure Device’s audio output is <i>Enabled</i> ! [Click down See the Effect] </h4> 
 
 
 <br />
