@@ -1,6 +1,6 @@
 
 
-[![Watch the video](https://i.pinimg.com/originals/5d/41/89/5d4189be97db843fe449ce5ec25e6aa9.gif)](https://player.vimeo.com/video/429245404)
+[![Watch the video](https://assets.materialup.com/uploads/7abcb02a-c312-4d58-8d54-1f6d7238105a/preview.gif)](https://player.vimeo.com/video/429245404)
 
 <br />
 
