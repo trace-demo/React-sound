@@ -1,8 +1,5 @@
-<h3>Ensure Device’s audio output is <i>Enabled</i> !🍳 </h3> 
+<h4>Ensure Device’s audio output is <i>Enabled</i> !🍳 </h4> 
 <br />
-[!To Here](https://player.vimeo.com/video/429245404)
-
-[![Watch the video]"To Here"](https://player.vimeo.com/video/429245404)
 
 
-[![Watch the video](https://media3.giphy.com/media/1GrbiPRvGOYO4/source.gif)](https://player.vimeo.com/video/429245404)
+[![Watch the video](https://miro.medium.com/max/1600/1*qZMz2abxuSdvi6YQOFkLVg.gif=250x200)](https://player.vimeo.com/video/429245404)
