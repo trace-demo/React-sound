@@ -1,4 +1,4 @@
-<h4>Ensure Device’s audio output is <i>Enabled</i> !</h4>  🍳
+<h4>Ensure Device’s audio output is <i>Enabled</i> !</h4> 
 
  👇
 
