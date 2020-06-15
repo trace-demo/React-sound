@@ -3,7 +3,7 @@
 
 <br />
 
-[Click >> 🍳](https://player.vimeo.com/video/429245404)
+click [🍳](https://player.vimeo.com/video/429245404)
 
 
 
