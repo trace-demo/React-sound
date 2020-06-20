@@ -2,7 +2,6 @@
 
 <br />
 
-<p>⏬</p>
 
  [🍳](https://player.vimeo.com/video/429245404)
 
