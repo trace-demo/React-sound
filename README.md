@@ -4,7 +4,7 @@
 
 <br />
 
-Click Here: [🍳](https://player.vimeo.com/video/429245404)  
+**then click here:** [🍳](https://player.vimeo.com/video/429245404)  
  
  
 
